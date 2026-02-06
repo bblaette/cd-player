@@ -1,0 +1,23 @@
+
+# ignore Mac files
+_gsdata_
+*DS_Store
+
+# ignore agent files
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+opencode.*
+
+# ignore logs, custom folders, zip, and stuff
+logs/*
+_[a-z]*
+*.log
+*.zip
+
+# ignore build, app, and transient files
+.build/
+*.app
+*.dmg
+dmg_temp/
+.swiftpm/
