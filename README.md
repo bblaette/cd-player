@@ -1,8 +1,9 @@
-# CD Player
+# CD Player (Colima Docker Player)
 
-**Colima Docker Player** — a lightweight, native macOS menu bar app for managing [Colima](https://github.com/abiosoft/colima) instances and Docker containers.
+**Colima Docker Player** is a lightweight, native macOS menu bar app for managing [Colima](https://github.com/abiosoft/colima) instances and Docker containers.
 
-![CD Player](docs/menu.png)
+<!-- ![CD Player](docs/menu.png) -->
+<img src="docs/menu.png" alt="CD Player" height="400"/>
 
 ## Features
 
